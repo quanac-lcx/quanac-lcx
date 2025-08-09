@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-<!--
-**quanac-lcx/quanac-lcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+**quanac-lcx/quanac-lcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+
+I am from China.
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
