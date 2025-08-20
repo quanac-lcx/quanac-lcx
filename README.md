@@ -1,24 +1,6 @@
 ## Hi there 👋
 
 
-**quanac-lcx/quanac-lcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-**Hi there 👋 ~ Welcome to my profile page!**
-
-<!--
-**YUDONGLING/YUDONGLING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ---
 
 <img align="right" src="https://raw.githubusercontent.com/YUDONGLING/YUDONGLING/master/Icon/BackGround.png" height="220px" title="Do what you like, and do it best!"> 
@@ -50,3 +32,5 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/YUDONGLING/YUDONGLING/master/Icon/Docker.svg" alt="Docker" title="Docker"></code>
 
 # 以上的都不会
+
+OIer 一枚（蒟蒻）
