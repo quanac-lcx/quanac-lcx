@@ -1,19 +1,6 @@
-**Hi there 👋 ~ Welcome to my profile page!**
+## Hi there 👋
 
-<!--
-**YUDONGLING/YUDONGLING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=quanac-lcx&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
 
 ---
 
@@ -44,3 +31,9 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/YUDONGLING/YUDONGLING/master/Icon/Serverless.svg" alt="Serverless" title="Serverless"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/YUDONGLING/YUDONGLING/master/Icon/Git.svg" alt="Git" title="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/YUDONGLING/YUDONGLING/master/Icon/Docker.svg" alt="Docker" title="Docker"></code>
+
+---
+
+骗你的，都不会（
+
+@laikit-dev 
