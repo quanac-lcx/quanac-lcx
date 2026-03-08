@@ -1,39 +1,8 @@
 ## Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=quanac-lcx&count_private=true&show_icons=true&theme=tokyonight&hide=stars)
+![](https://ghstats.hiac.me/api?username=quanac-lcx&count_private=true&show_icons=true&theme=tokyonight)
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/BackGround.png" height="220px" title="Do what you like, and do it best!"> 
-
-**Languages and Frameworks**
-
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/MatLab.svg" alt="MatLab" title="MatLab"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/GoLang.svg" alt="Golang" title="Golang"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Python.svg" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Swift.svg" alt="Swift" title="Swift"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/C.svg" alt="C" title="C"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/CPP.svg" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Selenium.svg" alt="Selenium" title="Selenium"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/MySQL.svg" alt="MySQL" title="MySQL"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/PHP.svg" alt="PHP" title="PHP"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Redis.svg" alt="Redis" title="Redis"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/HTML.svg" alt="HTML5" title="HTML5"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/CSS.svg" alt="CSS3" title="CSS3"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/JS.svg" alt="JavaScript" title="JavaScript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Nginx.svg" alt="Nginx" title="Nginx"></code>
-
-**Tools and Environments**
-
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/VSCode.svg" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/VisualStudio.svg" alt="Visual Studio" title="Visual Studio"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Serverless.svg" alt="Serverless" title="Serverless"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Git.svg" alt="Git" title="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/quanac-lcx/quanac-lcx/master/Icon/Docker.svg" alt="Docker" title="Docker"></code>
-
----
-
-骗你的，都不会（
-
-@laikit-dev 
+有事请联系我，回复可能稍慢  
+联系方式在左侧
